@@ -1,2 +1,2 @@
 ## cinemaJava_oopFinal
-This is a java program for ordering movie tickets.
+This is the java program for a movie-ticket-ordering system.
